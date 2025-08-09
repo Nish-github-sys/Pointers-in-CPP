@@ -21,3 +21,8 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Difference between two selected pointers is: 20
+*/
