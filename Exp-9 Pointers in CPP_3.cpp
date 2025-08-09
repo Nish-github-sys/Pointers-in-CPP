@@ -33,3 +33,9 @@ for(int i=0; i<5; i++){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Array before reversing: 10	20	30	40	50	
+Reversed Array is: 50	40	30	20	10
+*/
