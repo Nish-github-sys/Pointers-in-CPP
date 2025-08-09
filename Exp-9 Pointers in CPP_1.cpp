@@ -45,3 +45,18 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+-->Before Incrementing:
+int ptr: 0x7fffb556461c
+float ptr: 0x7fffb5564618
+double ptr: 0x7fffb5564610
+bool ptr: 0x7fffb556460f
+
+-->After Incrementing:
+int ptr: 0x7fffb5564620
+float ptr: 0x7fffb556461c
+double ptr: 0x7fffb5564618
+bool ptr: 0x7fffb5564610
+*/
